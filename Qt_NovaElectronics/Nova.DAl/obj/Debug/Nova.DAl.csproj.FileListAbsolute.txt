@@ -1,0 +1,11 @@
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\bin\Debug\Nova.DAL.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\bin\Debug\Nova.DAL.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\bin\Debug\Nova.BusinessObjects.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\bin\Debug\Nova.BusinessObjects.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.csprojAssemblyReference.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.Properties.Resources.resources
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.csproj.GenerateResource.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.csproj.CoreCompileInputs.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.csproj.CopyComplete
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova.DAl\obj\Debug\Nova.DAL.pdb

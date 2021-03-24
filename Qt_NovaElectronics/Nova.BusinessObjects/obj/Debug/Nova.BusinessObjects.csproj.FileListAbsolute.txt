@@ -1,0 +1,8 @@
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\bin\Debug\Nova.BusinessObjects.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\bin\Debug\Nova.BusinessObjects.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\obj\Debug\Nova.BusinessObjects.Properties.Resources.resources
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\obj\Debug\Nova.BusinessObjects.csproj.GenerateResource.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\obj\Debug\Nova.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\obj\Debug\Nova.BusinessObjects.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\obj\Debug\Nova.BusinessObjects.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova.BusinessObjects\obj\Debug\Nova.BusinessObjects.csprojAssemblyReference.cache

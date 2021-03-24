@@ -1,0 +1,16 @@
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.csprojAssemblyReference.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.frmUserEntry.resources
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.frmRoleWisePermission.resources
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.Properties.Resources.resources
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.csproj.GenerateResource.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.csproj.CoreCompileInputs.cache
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.exe.config
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.exe
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.BusinessObjects.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.DAL.dll
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.BusinessObjects.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova\bin\Debug\Nova.DAL.pdb
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.csproj.CopyComplete
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.exe
+E:\QuadTheory\Qt_NovaElectronics\Nova\obj\Debug\Nova.pdb
